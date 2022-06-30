@@ -1,0 +1,9 @@
+[book]
+authors = ["Reece McMillin"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CS404 Notes"
+
+[output.html]
+mathjax-support = true
